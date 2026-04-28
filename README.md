@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m  **Flutter Developer**
 
 - 👀 I’m interested in developing mobile apps, **AI and newer Technologies.**
 
