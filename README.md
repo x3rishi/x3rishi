@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Flutter, Dart and Firebase ,Getx ,Bloc , Rest Api**
 
-- 📫 How to reach me **tailorrishi73@gmail.com**
+- 📫 How to reach me **https://rishidev.web.app**
 
 - ⚡ Fun fact **BAIGAN**
 
