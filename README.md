@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in developing mobile apps, **AI and newer Technologies.**
 
-- 💬 Ask me about **Flutter, Dart and Firebase ,Getx**
+- 💬 Ask me about **Flutter, Dart and Firebase ,Getx ,Bloc , Rest Api**
 
 - 📫 How to reach me **tailorrishi73@gmail.com**
 
